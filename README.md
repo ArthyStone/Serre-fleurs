@@ -18,6 +18,7 @@ endpoints réservés à la carte arduino, ils permettent à la carte arduino d'e
 ## GET
 - /api/moist?recursive = false
 - /api/temp?recursive = false
+
 soit le paramètre `recursive` (default false):
 - if false:
   - donne la dernière valeur en date
